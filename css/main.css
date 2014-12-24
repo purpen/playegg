@@ -408,6 +408,7 @@ audio {
         font-size: 0.7em;
         padding: 10px 12px 0 12px;
         color: #5e1a05;
+		text-align: center;
     }
     h1 {
         font-size: 1.7em;
@@ -448,6 +449,7 @@ audio {
         font-size: 0.7em;
         padding: 2px 14px;
         color: #5e1a05;
+		text-align: center;
     }
     header {
         height: 77px;
@@ -553,6 +555,7 @@ audio {
         font-size: 12px;
         padding: 2px 14px;
         color: #5e1a05;
+		text-align: center;
     }
     header {
         width: 320px;
